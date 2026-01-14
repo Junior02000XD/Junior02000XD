@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Junior02000XD
-- 👀 I’m interested in Programming Videogames
+- 👋 Hi, I’m Julio Cesar
+- 👀 I’m interested in Programming Desktop Apps, Web Pages and Videogames
 - 🌱 I’m currently learning System Engineer
 - 📫 How to reach me juliocesarcruzkubber@gmail.com
 
