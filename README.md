@@ -53,12 +53,6 @@ presenciales/virtuales, pagos, certificados).
 
 ---
 
-### 📊 GitHub Stats
-
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior02000XD&show_icons=true&theme=default&hide_border=true)
-
----
-
 ### 📬 Contacto
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juliocesarcruzkubber@gmail.com)
